@@ -1,6 +1,7 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelraj305511@gmail.com) 
+
 LIVE MY PORTFOLIO :- https://rajpatel30.github.io/MY-PORTFOLIO/#about
 
 # 💻 Tech Stack:
